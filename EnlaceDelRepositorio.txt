@@ -1,1 +1,1 @@
-https://github.com/usuario/nombre-repositorio.git
+https://github.com/jorgegz1/Modulos-probados.git
